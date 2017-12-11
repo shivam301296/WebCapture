@@ -1,45 +1,33 @@
-True Weather
+Web Capture
 ======
 
-<img src="images/icon_192.png" width="25%"></img>
+<img src="images/icon.png" width="25%"></img>
 
-**True Weather** app has the Simplest and user friendly interface with negligible data consumption, fastest and accurate weather reporting . Keep track live weather, any time, any where.
+**Web Capture** allows converting any webpage into the High-quality image. It can capture entire webpage with just one click.
 
 #### Screenshot
 
-<img src="images/screenshot_1.png" width="15%"></img> 
-<img src="images/screenshot_2.png" width="15%"></img> 
-<img src="images/screenshot_3.png" width="15%"></img>
-<img src="images/screenshot_4.png" width="15%"></img>
-<img src="images/screenshot_5.png" width="15%"></img>
-<img src="images/screenshot_7.png" width="15%"></img>
+<img src="images/111.png" width="18%"></img> 
+<img src="images/222.png" width="18%"></img> 
+<img src="images/333.png" width="18%"></img>
+<img src="images/444.png" width="18%"></img>
 
 #### App Stores
 <!-- edit this image location -->
-[![Get it on Google Play](https://raw.github.com/repat/README-template/master/googleplay.png)](https://play.google.com/store/apps/details?id=com.shivam.tree.mousam)
+[![Get it on Google Play](https://raw.github.com/repat/README-template/master/googleplay.png)](https://play.google.com/store/apps/details?id=com.tree.rh.webcapture)
 
 #### Works on
 * Android 4.0.3 (Ice Cream Sandwich) and above.
 
 ### Permissions
-* ACCESS_COARSE_LOCATION
-* ACCESS_FINE_LOCATION
-* ACCESS_NETWORK_STATE
-* RECEIVE_BOOT_COMPLETED
+* INTERNET
 * WRITE_EXTERNAL_STORAGE
-* READ_EXTERNAL_STORAGE
+* ACCESS_NETWORK_STATE
+* ACCESS_NETWORK_STATE
 
 ### Built With
 
 * [Android Studio](https://developer.android.com/studio/index.html) - The Official IDE for Android
-
-### Third party libraries
-* Glide (https://github.com/bumptech/glide)
-* okhttp (https://github.com/square/okhttp)
-* android-process-button (https://github.com/dmytrodanylyk/android-process-button)
-* RealtimeBlurView (https://github.com/mmin18/RealtimeBlurView)
-* MPAndroidChart (https://github.com/PhilJay/MPAndroidChart)
-* gson (https://github.com/google/gson)
 
 ### Authors
 
